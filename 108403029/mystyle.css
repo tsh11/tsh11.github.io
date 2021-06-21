@@ -1,0 +1,79 @@
+body{
+	background-color:#E6E6FA;
+	}
+.h1{
+	color:#668B8B;
+}
+p {
+	background-color:#EEE8AA;
+	padding:18px;
+	color:#8B7500;
+}
+p:hover {
+	background-color:#FFC1C1;
+	}
+
+.word {
+	width:100px;
+	height:20px;
+	background:#BDB76B;
+	transition:width 1s;
+}
+.word:hover{
+	width:700px;
+	}
+.java {
+	width:100px;
+	height:20px;
+	background:#BDB76B;
+	transition:width 1s;
+}
+.java:hover{
+	width:500px;
+	}
+.sql {
+	width:100px;
+	height:20px;
+	background:#BDB76B;
+	transition:width 1s;
+}
+.sql:hover{
+	width:300px;
+	}
+a:link{
+	color:#8B4726;
+	}
+a:visited{
+	color:red;
+	}
+a:hover{
+	color:green;
+	}
+a:active{
+	color:blue;
+	}
+.sq{
+	width:30px;
+	height:30px;
+	background:#8B8B00;
+	transition:width 2s,height 2s,transform 2s,background 1s ease-in;
+	}
+.sq:hover{
+	width:100px;
+	height:100px;
+	background:#FFFF00;
+	transform:rotate(180deg);
+	}
+div.pic{
+	margin:5px;
+	border:1px solid tomato;
+	float:center;
+	width:320px;
+	height:300px;
+	position:relative;
+	}
+div.pic:hover{
+	border:3px solid #000000;
+	}
+
+	
